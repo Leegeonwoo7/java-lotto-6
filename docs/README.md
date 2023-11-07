@@ -13,3 +13,10 @@
     1. List<Integer> lottoNumbers - 6자리의 로또번호를 저장하는 변수
   * 메서드
     1. generateLottoTicket - 랜덤 6개의 번호를 발급하는 메서드
+
+* DrawLotto class - 로또 당첨번호를 뽑는 클래스
+  * 메서드
+    1. getNumbers - 당첨 번호6자리를 입력받는 클래스
+    2. getBonusNumber - 보너스 당첨번호를 입력받는 클래스
+
+
